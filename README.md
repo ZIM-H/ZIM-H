@@ -5,9 +5,10 @@ ZIM-H/ZIM-H is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://img.shields.io/badge/_-Java-red" /> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/JPA Hibernate-59666C?logo=Hibernate&logoColor=white">
+
 
 <!--
+<img src="https://img.shields.io/badge/_-Java-red" /> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/JPA Hibernate-59666C?logo=Hibernate&logoColor=white">
 <table>
     <tr>
         <td><b>Back-end</b></td>
